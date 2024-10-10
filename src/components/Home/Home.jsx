@@ -15,8 +15,7 @@ challenging position in a reputed organization where I can build my career and a
 set.”
 
         </p>
-        <button className='mt-5 md:md-10 text-white py-2 px-3 text-sm md:text-lg md:py-2 duration-300 hover:scale-105 font-semibold rounded-3xl bg-[#465697]'> Contact Me</button>
-        </div>
+             </div>
         <div className='mt-10 md:mt-0 md:w-2/5'>
             <img className=' w-full rounded-lg shadow-lg transition-transform duration-300 transform hover:scale-105' src={AnubhvImage} alt="" />
         </div>
